@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+# tpkg 规范
+target/
+_local_only/
